@@ -26,7 +26,6 @@ emqttd is aimed to provide a solid, enterprise grade, extensible open-source MQT
 * TCP/SSL Connection Support
 * MQTT Over Websocket(SSL) Support
 * HTTP Publish API Support
-* [$SYS/borkers/#](https://github.com/emqtt/emqtt/wiki/$SYS-Topics-of-Broker) Support
 * Client Authentication with clientId, ipaddress
 * Client Authentication with username, password.
 * Client ACL control with ipaddress, clientid, username.
@@ -39,7 +38,6 @@ emqttd is aimed to provide a solid, enterprise grade, extensible open-source MQT
 
 ## Design
 
-![emqttd architecture](http://emqtt.io/static/img/Architecture.png)
 
 
 ## QuickStart
@@ -97,10 +95,10 @@ The MIT License (MIT)
 [@turtleDeng](https://github.com/turtleDeng)
 [@Hades32](https://github.com/Hades32)
 [@huangdan](https://github.com/huangdan)
+[@sunil](https://github.com/sunilkumar.tc)
 
 
 
-## Author
-
-Feng Lee <feng@emqtt.io>
+## Author-improved from  yang lee clone
+SUNIL KUMAR TC
 
